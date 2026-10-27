@@ -1,16 +1,79 @@
-## Hi there 👋
 
-<!--
-**isab7fim/isab7fim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0A10&height=180&section=header&text=Isabella%20Reis&fontSize=45&fontColor=F4A3C7&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=15&descAlignY=60&animation=fadeIn" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F4A3C7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+mundo!+%E2%99%A1;Explorando+o+universo+da+tecnologia;Aprendendo+e+construindo+meu+futuro)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## ♡ Sobre mim
+
+- Estudante de Engenharia de Software.
+- Tenho interesse em desenvolvimento front-end.
+- Estudando HTML, CSS, JavaScript, Python e C.
+- Compartilhando minha jornada de aprendizado em tecnologia.
+
+---
+
+## ✿ Tecnologias que estou aprendendo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c&theme=dark" />
+
+</div>
+
+---
+
+## ✿ GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=isab7fim&show_icons=true&hide_border=true&bg_color=0B0A10&title_color=F4A3C7&text_color=F5EAF0&icon_color=F4A3C7&ring_color=F4A3C7&locale=pt-br" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isab7fim&layout=compact&hide_border=true&bg_color=0B0A10&title_color=F4A3C7&text_color=F5EAF0&langs_count=6" />
+
+</div>
+
+---
+
+## ♡ Minhas contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isab7fim&bg_color=0B0A10&color=F4A3C7&line=F4A3C7&point=FFFFFF&area=true&area_color=F4A3C7&hide_border=true&custom_title=Minha%20jornada%20no%20GitHub" width="100%" />
+
+</div>
+
+---
+
+## 💻✿ Projetos
+
+Ainda estou construindo minha trajetória como desenvolvedora e transformando meus estudos em prática.
+
+<div align="center">
+
+[![Meus repositórios](https://img.shields.io/badge/Explorar%20meus%20reposit%C3%B3rios-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7)](https://github.com/isab7fim?tab=repositories)
+
+</div>
+
+---
+
+## ♡ Vamos nos conectar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7)](https://github.com/isab7fim)
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0A10&height=100&section=footer" />
+
+<sub>Feito com dedicação e um toque de rosa. ♡</sub>
+
+</div>
