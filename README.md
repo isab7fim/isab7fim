@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isab7fim&bg_color=0B0A10&color=F4A3C7&line=F4A3C7&point=FFFFFF&area=true&area_color=F4A3C7&hide_border=true&custom_title=Minha%20jornada%20no%20GitHub" width="100%" />
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=isab7fim&bg_color=0B0A10&color=F4A3C7&line=F4A3C7&point=FFFFFF&area=true&hide_border=true&custom_title=Minha%20jornada%20no%20GitHub)](https://github.com/isab7fim)
 
 </div>
 
@@ -67,14 +67,11 @@ Ainda estou construindo minha trajetória como desenvolvedora e transformando me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7)](https://github.com/isab7fim)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0A10&height=100&section=footer" />
-
-<sub>Feito com dedicação e um toque de rosa. ♡</sub>
+<a href="https://github.com/isab7fim" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/isabellareisss/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0A10?style=for-the-badge&logo=linkedin&logoColor=F4A3C7" alt="LinkedIn" />
+</a>
 
 </div>
