@@ -17,7 +17,7 @@
 
 ---
 
-## ₊⊹ Tecnologias que estou aprendendo
+## ♡ Tecnologias que estou aprendendo
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 ---
 
-## ✿ GitHub Stats
+## ♡ GitHub Stats
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 𑄝੭ Minhas contribuições
+## ♡ Minhas contribuições
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-## ✧ Projetos
+## ♡ Projetos
 
 Ainda estou construindo minha trajetória como desenvolvedora e transformando meus estudos em prática.
 
