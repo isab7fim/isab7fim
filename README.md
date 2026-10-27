@@ -66,10 +66,10 @@ Ainda estou construindo minha trajetória como desenvolvedora e transformando me
 <div align="center">
 
 <a href="https://github.com/isab7fim">
-  <img src="https://img.shields.io/badge/GitHub-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7" alt="GitHub"/>
 </a>
-<a href="linkedin.com/in/isabellareisss">
-  <img src="https://img.shields.io/badge/LinkedIn-0B0A10?style=for-the-badge&logo=linkedin&logoColor=F4A3C7" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/isabellareisss">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0A10?style=for-the-badge&logo=linkedin&logoColor=F4A3C7" alt="LinkedIn"/>
 </a>
 
 </div>
