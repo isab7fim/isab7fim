@@ -1,10 +1,8 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0A10&height=180&section=header&text=Isabella%20Reis&fontSize=45&fontColor=F4A3C7&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=15&descAlignY=60&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F4A3C7&center=true&vCenter=true&width=650&lines=Hello%21+This+is+Isa+%E2%99%A1;Welcome+to+my+world%21;A+little+world+of+code+%26+creativity;Dreaming%2C+creating+%26+coding...)](https://git.io/typing-svg)
-
 
 </div>
 
@@ -19,7 +17,7 @@
 
 ---
 
-## ✿ Tecnologias que estou aprendendo
+## ₊⊹ Tecnologias que estou aprendendo
 
 <div align="center">
 
@@ -41,7 +39,7 @@
 
 ---
 
-## ♡ Minhas contribuições
+## 𑄝੭ Minhas contribuições
 
 <div align="center">
 
@@ -51,7 +49,7 @@
 
 ---
 
-## 💻✿ Projetos
+## ✧ Projetos
 
 Ainda estou construindo minha trajetória como desenvolvedora e transformando meus estudos em prática.
 
@@ -70,7 +68,7 @@ Ainda estou construindo minha trajetória como desenvolvedora e transformando me
 <a href="https://github.com/isab7fim">
   <img src="https://img.shields.io/badge/GitHub-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7" alt="GitHub" />
 </a>
-<a href="COLE_AQUI_SEU_LINK_DO_LINKEDIN">
+<a href="linkedin.com/in/isabellareisss">
   <img src="https://img.shields.io/badge/LinkedIn-0B0A10?style=for-the-badge&logo=linkedin&logoColor=F4A3C7" alt="LinkedIn" />
 </a>
 
