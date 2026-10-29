@@ -37,18 +37,6 @@
 
 </div>
 
----
-
-## ♡ Minhas contribuições
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=isab7fim&bg_color=0B0A10&color=F4A3C7&line=F4A3C7&point=FFFFFF&area=true&hide_border=true&custom_title=Minha%20jornada%20no%20GitHub)](https://github.com/isab7fim)
-
-</div>
-
----
-
 ## ♡ Projetos
 
 Ainda estou construindo minha trajetória como desenvolvedora e transformando meus estudos em prática.
