@@ -37,6 +37,8 @@
 
 </div>
 
+---
+
 ## ♡ Projetos
 
 Ainda estou construindo minha trajetória como desenvolvedora e transformando meus estudos em prática.
