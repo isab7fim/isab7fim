@@ -51,8 +51,6 @@
 
 ## ♡ Projetos
 
-Ainda estou construindo minha trajetória como desenvolvedora e transformando meus estudos em prática.
-
 <div align="center">
 
 [![Meus repositórios](https://img.shields.io/badge/Explorar%20meus%20reposit%C3%B3rios-0B0A10?style=for-the-badge&logo=github&logoColor=F4A3C7)](https://github.com/isab7fim?tab=repositories)
